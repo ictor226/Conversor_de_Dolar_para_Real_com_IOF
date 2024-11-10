@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\bin\Debug\net8.0\atividadeCONVERSOR.exe
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\bin\Debug\net8.0\atividadeCONVERSOR.deps.json
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\bin\Debug\net8.0\atividadeCONVERSOR.runtimeconfig.json
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\bin\Debug\net8.0\atividadeCONVERSOR.dll
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\bin\Debug\net8.0\atividadeCONVERSOR.pdb
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.dll
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\refint\atividadeCONVERSOR.dll
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.pdb
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\atividadeCONVERSOR.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\atividadeCONVERSOR\atividadeCONVERSOR\obj\Debug\net8.0\ref\atividadeCONVERSOR.dll
